@@ -1,4 +1,4 @@
-# classteachIRL
+# learn and teach in IRL
 
 Code for paper
 
